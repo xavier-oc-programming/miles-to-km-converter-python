@@ -4,6 +4,24 @@ A Tkinter GUI that converts between miles and kilometers in both directions.
 
 ---
 
+## Table of Contents
+
+1. [Quick Start](#1-quick-start)
+2. [Builds Comparison](#2-builds-comparison)
+3. [Controls](#3-controls)
+4. [App Flow](#4-app-flow)
+5. [Features](#5-features)
+6. [Navigation Flow](#6-navigation-flow)
+7. [Architecture](#7-architecture)
+8. [Module Reference](#8-module-reference)
+9. [Configuration Reference](#9-configuration-reference)
+10. [Display Layout](#10-display-layout)
+11. [Design Decisions](#11-design-decisions)
+12. [Course Context](#12-course-context)
+13. [Dependencies](#13-dependencies)
+
+---
+
 ## 1. Quick Start
 
 ```
