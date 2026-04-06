@@ -1,0 +1,6 @@
+# Standard library only — no pip install required
+# Python 3.10+ required (X | Y union types, tuple[...] hints)
+# tkinter ships with standard Python on macOS and Windows
+# On Linux, install python3-tk via your package manager if missing:
+#   sudo apt install python3-tk   (Debian/Ubuntu)
+#   sudo dnf install python3-tkinter  (Fedora)
